@@ -1,10 +1,5 @@
 [
-  {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/lelouch1212"
-  },
+
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
@@ -22,17 +17,5 @@
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:771865391@qq.com"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/"
   }
 ]
